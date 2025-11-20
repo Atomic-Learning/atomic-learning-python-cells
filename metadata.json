@@ -8,11 +8,11 @@
         "atomic-learning",
         "python"
     ],
-    "duration": 3,
+    "duration": 1,
     "prerequisites": [
     ],
     "related": [
         "atomic-learning-python-cells-variable-persistence",
-        "python-print-function"
+        "python-print"
     ]
 }
