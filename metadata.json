@@ -14,6 +14,7 @@
     ],
     "related": [
         "atomic-learning-python-cells-variable-persistence",
-        "python-print"
+        "python-print",
+        "atomic-learning-creating-python-cells"
     ]
 }
